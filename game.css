@@ -1,0 +1,59 @@
+.header {
+  margin: auto;
+  width: 80%;
+  padding: 8px;
+  text-align: center;
+}
+
+#playAgain {
+  text-align: center;
+  padding: 10px;
+  width: 80%;
+
+}
+
+.TicTacToe {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  display: grid;
+
+}
+
+#squareOne {
+  border-style: solid;
+  font-size: 64px;
+}
+
+#squareTwo {
+  border-style: solid;
+  font-size: 64px;
+}
+#squareThree {
+  border-style: solid;
+  font-size: 64px;
+}
+#squareFour {
+  border-style: solid;
+  font-size: 64px;
+}
+#squareFive {
+  border-style: solid;
+  font-size: 64px;
+}
+#squareSix {
+  border-style: solid;
+  font-size: 64px;
+}
+#squareSeven {
+  border-style: solid;
+  font-size: 64px;
+}
+#squareEight  {
+  border-style: solid;
+  font-size: 64px;
+}
+#squareNine {
+  border-style: solid;
+  font-size: 64px;
+}
